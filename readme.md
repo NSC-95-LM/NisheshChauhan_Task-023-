@@ -1,6 +1,6 @@
 # NisheshChauhan_Task(23)
 
-## Requirements Missing: 
+## Requirements Missing - `UPDATED BELOW`: 
 1. Sticky navigation bar with specified elements - `done (sticky top-0 z-50) - mentioned on line 17`
     What was asked in the assignment:
     1. Create a sticky top navigation bar with a backdrop blur (backdrop-blur-md). - `mentioned on line 17`
